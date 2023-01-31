@@ -1,0 +1,31 @@
+টাস্কটি যেভাবে সাবমিট করতে হবেঃ-
+
+প্রথমে একটা ডক ফাইল ক্রিয়েট করবে,
+ ডক ফাইলে প্রথম ৪টি প্রব্লেম এর কোড থাকবে এবং সাথে আউটপুট  এর স্ক্রিনশট দিতে হবে।।
+  টুডু এপ টি হোস্ট করে ( তোমার পছন্দমতো হোস্টিং সার্ভারে) লাইভ লিংক এবং সাথে গিটে কোড আপলোড করে গিট  লিংক এড করে দিবে। 
+এরপর ডক লিংকটি গুগল ফর্মের নির্দিষ্ট ফিল্ডে দিয়ে দিবে। 
+টাস্ক সবমিটের শেষ সময় আগামীকাল,১৯ই মে বৃহস্পতিবার, সকাল ৮ঃ০০ টা। 
+
+[তবে সাবধান সময়ের পরে যদি কেও ডক ফাইল ইডিট করো, তাহলে তুমি ডিসকলিফাইড হয়ে যাবে।] 
+
+ফর্ম লিঙ্কঃ https://forms.gle/K8M1hnXDU7QmCYHH7 
+
+
+
+Task
+1. Create a function that will find the factorial number of [9] using recursion.
+2. Find the maximum number in a jagged array given below array of numbers?
+var ar= [2,4,10,[12,4,[100,99],4],[3,2,99],0];
+
+3. Find the counts of duplicates in an array?
+const arr= ["1", "5", "9", "14", "5", "22", "48", "25", "22", "20", "9" ,"13"]
+[You have to use for loop to solve this array. You cannot use any es6 features]
+4. How to find unique values from an array in sorted order?
+const arr= [1,5,7,44,5,9,4,5,9,10,6,7,8]
+[You have to use for loop to solve this array. You cannot use any es6 features]
+React App
+Make a simple to-do app using Rest API.
+Users can add a task using the add task button[task field has the task name and description].After adding a task user can see the task as well.
+When the user clicks the complete button, the app will show the notifications and strikethrough the task text.
+Users also can delete the task.
+Todo app should be protected.
